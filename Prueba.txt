@@ -4,7 +4,7 @@ Rama principal (color rojo)
 Boton presionado
 
 =======
-Curso Git y GitHub (color azul)
+Curso Github vs GitLab (color azul)
 Le agregamos un sudbrayado feo
 >>>>>>> appBar
 Hola a todos
