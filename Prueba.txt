@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 Rama principal (color rojo)
 
 Boton presionado
 
+=======
+Curso Git y GitHub (color azul)
+Le agregamos un sudbrayado feo
+>>>>>>> appBar
 Hola a todos
 Adios a todos
 Hoy es otro dia de cursos
 Vamos a seguir cambiando algunas cosas
- 
+cambiamos el icono
