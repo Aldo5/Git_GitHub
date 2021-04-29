@@ -1,16 +1,10 @@
-<<<<<<< HEAD
-Rama principal (color rojo)
 
-Boton presionado
-
-=======
-<<<<<<< HEAD
 Curso Github vs GitLab (color azul)
-=======
+
 Ya empieza con Github(color azul)
->>>>>>> appBar
+
 Le agregamos un sudbrayado feo
->>>>>>> appBar
+
 Hola a todos
 Adios a todos
 Hoy es otro dia de cursos
