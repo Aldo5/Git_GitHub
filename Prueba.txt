@@ -1,7 +1,7 @@
 
 Curso Github vs GitLab (color azul)
 
-Ya empieza con Github(color azul)
+Apenas empieza lo bueno(color rojo)
 
 Le agregamos un sudbrayado feo
 
