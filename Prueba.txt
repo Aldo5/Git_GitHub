@@ -11,3 +11,5 @@ Hoy es otro dia de cursos
 Vamos a seguir cambiando algunas cosas
 cambiamos el icono
 Cambiamos el contador ++10
+
+Si editamos localmente primero commit y despues git pull
